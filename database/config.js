@@ -14,5 +14,5 @@ const dbConnection = async () => {
     throw new Error("error a la hora de inicializar la base de datos");
   }
 };
-
+//asdasd
 module.exports = { dbConnection };
